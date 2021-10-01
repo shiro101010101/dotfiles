@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = s084016@gmail.com
+	name = shusui kaneda
